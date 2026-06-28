@@ -9,3 +9,14 @@
 6. Each order_id represents a unique customer order.  
 7. Sales and Profit values are assumed to be in the same currency.  
 8. Delivery Days represent the number of days between the order date and ship date.  
+
+# Dashboard Components
+
+• KPI – Total Sales
+• KPI – Total Profit
+• KPI – Profit Margin
+• Monthly Sales Trend
+• Regional Sales and Profit Performance
+• Category and Sub-category Profitability
+• Discount vs Profit Analysis
+• Shipping Mode and Delivery Delay Impact
